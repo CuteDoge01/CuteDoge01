@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and expanding my C# skills
 - 💞️ I’m looking to collaborate on a lot of different projects, any experience is great! 
 - 📫 How to reach me: 
-Discord: CuteDoge#1511
+Discord: @CuteDoge
 Email: Alexeyshapran333@gmail.com
 
 <!---
